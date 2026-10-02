@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "## Perch 1.0.3\n\n- fix: troca do catalogo resiste a bloqueios transitorios do antivirus e nunca fica sem catalogo\n- feat: catalogo da organizacao assinado numa partilha interna",
-  "pub_date": "2026-09-30T15:56:57.019Z",
+  "version": "1.0.4",
+  "notes": "## Perch 1.0.4\n\n- fix: processos filhos sem janela de consola na Release e tray volta a mostrar a janela com webviews filhas",
+  "pub_date": "2026-10-02T11:35:05.980Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cW8yb3BPUks1RTR0M0t0R0s2WDZkdVdKNXZoN3kzdjdJU1F2S3FnakVCejBVTlJZV2k1bXpEYSthMEM5alV0RjBOcTNpV3pOOHJJbVV5V0NLdkZSc1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzgzNzkzCWZpbGU6UGVyY2hfMS4wLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4zClNKWXFGTFkzbkFZLzk4T1pSSDZuZlJ6Z3Q2ZWhvQVFXL3dEVG94SmVNL2YvM1V5U1ErdTVXalFJOC9td3N4ZkNTTGF4Mkk0anB2eGJvUHBOOXhBMkRnPT0K",
-      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.0.3/Perch_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cXNJTjU2ZkhJRm8rSGZEb0tiWE01R3FFQU85V256eFFyZmFzMU0weTV2NmZoNlBwNW5TaDFHY3pKaVpwd2JaTHB1V1VCaVc5OXgvR2p5TytRK3hxQmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTQwODczCWZpbGU6UGVyY2hfMS4wLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC40CmlJM2d1Q1BaMklTMzVGZlRZZTY1ZkY1ZWZrTGJ1eTB0SkdXeWNCNWM5N1Zwc1hHTXE1UW50WEVPR0ZJSklqVFVuWlNTMnF3NGF1ZUVTeC9JSXd4R0N3PT0K",
+      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.0.4/Perch_1.0.4_x64-setup.exe"
     }
   }
 }
