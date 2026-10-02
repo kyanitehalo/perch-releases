@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "## Perch 1.0.5\n\n- fix: opcoes dos dropdowns visiveis no modo escuro (lista nativa do WebView2 sem transparencia); ideias 8 e 9\n- docs: lista de ideias por analisar (sempre em modo plano) e estudo M365 movido para o repo\n- feat: Jira por REST na app — conta por pessoa, rascunho em bloco e criacao nativa (ADR 0032, fases 2 e 3)\n- feat: executor Jira nativo por API token (ADR 0032, fases 0 e 1)\n- fix: processos filhos sem janela de consola na Release e tray volta a mostrar a janela com webviews filhas",
-  "pub_date": "2026-10-02T12:47:34.831Z",
+  "version": "1.1.1",
+  "notes": "## Perch 1.1.1\n\n- docs: skill perch-execution reescrita para o motor Rust (ambiente construido, testes, app.log)\n- fix(gate): esperar pela app pronta, timeout em cada chamada CDP e nunca ficar pendurado (falha da 1.1.0)\n- feat: log da app em ficheiro (app.log) e panics registados antes do abort da Release\n- feat: catalogo verificado depois de publicar com o sync da app, rollback automatico e catalog:verify",
+  "pub_date": "2026-10-02T21:16:21.519Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cXEwVDJaSjhQMzY2TEF1bmdNcU9CU2dUNEVmcEkybTU3ZWpuMkluRSt3UHZQYjVLRlhoK3RvKzFOR2VkZEw4WFBySkRtZDRDVC9nZDd3cllLZDl2M3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTQ1MjE4CWZpbGU6UGVyY2hfMS4wLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC41CndrTmVmc1FOWTdxSHlRakJaUFA0TmhaMjU2VzFGcGRkYTVkeCtyT0Q2RnE0dVZhMDVYbzRGTkdaQnNwbE5ZbjJaaHlDZjU1Z2FJazdQMnJwZlBDM0RRPT0K",
-      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.0.5/Perch_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cXVFYUFzbHl4U1RxN1JnSDhQbTJmTGZ4NFZRR21LanAvQTRwcXc3bXZUZk9CeS9nbFNNSTJlZ1FUN3RqMThuRmxjZ2c4b0NpWDlmYjZDWm85em5DaUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTc1NTA0CWZpbGU6UGVyY2hfMS4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4xCk40S3JvcXVyWFI1S28wcXE1eEJtcmhWbkpEYVJCOVVYTVFUQmJxZXRCYkxObHFFdUxlU01Gc0VBS09FbnNvYlR6TERCVlBpblgxOW5pb29yS2ZrUURRPT0K",
+      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.1.1/Perch_1.1.1_x64-setup.exe"
     }
   }
 }
