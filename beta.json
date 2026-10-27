@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "notes": "## Perch 1.6.0\n\n- docs: ideas.md — hipótese login M365 directo no Perch via WebView2\n- docs: architecture e design-system reflectem ferramentas por dominio (ADR 0045)\n- feat(tools): ferramentas por dominio — area, descricao e papel explicito (ADR 0045)\n- feat(tools): papel das acções (uso, manutenção, interna) — as de contrato saem da UI e são recusadas à mão\n- feat(ui): definições no contexto — Tarefas e variáveis das Tools saem das Definições globais\n- fix(lint): lint:org analisa o conteúdo dos commits por enviar, não só o working tree (ADR 0036)\n- feat(projects): projectos com git só de leitura e verbos «abrir em» (ADR 0044)\n- feat(ui): identidade visual dark-first (ADR 0043)\n- chore(dev): dev:debug + MCP perch-webview para ver a app real por CDP\n- docs(claude): regra de design em revisão; skills de design globais\n- docs: conclusões M365 (Graph bloqueado, email adiado, ICS a implementar)\n- feat(palette): Lembrar-me de uma tarefa no Ctrl+K (ADR 0041 B1)\n- docs: marcar ideia 9 como feita (ADR 0042, PRs #32/#34)",
-  "pub_date": "2026-10-20T12:40:20.462Z",
+  "version": "1.7.1",
+  "notes": "## Perch 1.7.1\n\n- fix(release): o gate ignora a janela Spotlight ao escolher a página do CDP (ADR 0049)",
+  "pub_date": "2026-10-27T09:04:00.217Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cXQ5QktwQkdad1lNUzdWaURDVE00ZDlxMTR4Mzdxa3BKNFdDT1o0QzJVVDVjWEpGMlNYSitNYUt4YldaR2V5T25RamhyYnkvRWh4N3dmN1BuMTVLUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk5NzcxCWZpbGU6UGVyY2hfMS42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi4wClhVL3NXQW5sSlNBcy81TkpoM1h0K3VXZkswZW01V29SQ3B4T211ejRzeXMxVGVxQUtLSnN0cGJtOTllbmpNSnJSYUgrSWlMTDRFbnQxZTl5eSsrd0FnPT0K",
-      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.6.0/Perch_1.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cW9iWGNaT2F2aVRFOEp4OEE2ZUpKeWNSV3kvK3crWkRidGZYLzkzVENSeW02L21wRDVVVFB6ZTlqenhBOU1qcmVDSWIyc0oxWXVZRHBRcFk1R0hiOGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkxNzAzCWZpbGU6UGVyY2hfMS43LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNy4xCjdXMGVkWGcyV3RSRjdlb09NMlVEcTJWTDhMWUJpNEJaZ2E4NDB1Q3lKTmhMUkJXcHE1eXVpeFpmUWR0YlFWSTAvbmxPR0p6U1QybDJ0SWpYTGkyRkR3PT0K",
+      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.7.1/Perch_1.7.1_x64-setup.exe"
     }
   }
 }
