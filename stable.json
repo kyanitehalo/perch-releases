@@ -1,11 +1,11 @@
 {
-  "version": "1.7.1",
-  "notes": "## Perch 1.7.1\n\n- fix(release): o gate ignora a janela Spotlight ao escolher a página do CDP (ADR 0049)",
-  "pub_date": "2026-10-27T09:04:00.217Z",
+  "version": "1.8.0",
+  "notes": "## Perch 1.8.0\n\n- docs(m365): implementação da 1.ª fatia (ADR 0051, ideas, architecture)\n- feat(m365): secção Microsoft 365 nas Definições\n- feat(m365): conector OWA numa webview filha, só leitura (ADR 0051)\n- docs(m365): ADR 0051 — conector OWA num WebView2, só leitura\n- docs(m365): referência ao resultado do spike no perch-config",
+  "pub_date": "2026-10-28T09:06:38.106Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cW9iWGNaT2F2aVRFOEp4OEE2ZUpKeWNSV3kvK3crWkRidGZYLzkzVENSeW02L21wRDVVVFB6ZTlqenhBOU1qcmVDSWIyc0oxWXVZRHBRcFk1R0hiOGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkxNzAzCWZpbGU6UGVyY2hfMS43LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNy4xCjdXMGVkWGcyV3RSRjdlb09NMlVEcTJWTDhMWUJpNEJaZ2E4NDB1Q3lKTmhMUkJXcHE1eXVpeFpmUWR0YlFWSTAvbmxPR0p6U1QybDJ0SWpYTGkyRkR3PT0K",
-      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.7.1/Perch_1.7.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2NweDlZaEV3cW5MY3pnWGNLWUo1aXU2SFczUEZDY0FkYTJYSzJOdExxT1NONU00dzRZWTFrMHRJdkFIcXBXdmN1dmhyTlA0VnhPT0IrSlNWYTRDUGgrYlVGOVp1amdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTc4MjU3CWZpbGU6UGVyY2hfMS44LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOC4wCnVYZGJyOXJGTFJ3MDBTZ1J3NVFXYWJtekluY3BCcXQyZnJqWHo1MXpsN1dVcnh2S1J6eUp2ZnBkbHVTSEN5c1FjRHV0ZnBtaEM1SCtnYmNUREFJcERnPT0K",
+      "url": "https://github.com/kyanitehalo/perch-releases/releases/download/v1.8.0/Perch_1.8.0_x64-setup.exe"
     }
   }
 }
